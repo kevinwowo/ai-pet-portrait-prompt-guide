@@ -1,0 +1,14 @@
+{
+  "checked": "2026-10-19",
+  "site": "https://ppblooms.com",
+  "note": "No public marketing email on site pages; support via signed-in tickets.",
+  "photo_tips": [
+    "Sharp face, front lighting",
+    "One pet, simple background",
+    "Eyes open",
+    "Crop with headroom",
+    "No heavy filters"
+  ],
+  "prompt_pattern": ["subject", "style", "light", "preserve details", "negatives"],
+  "trial_from_copy": "Verified email: 2 image trials + 1 five-second watermarked video trial; credits unlock clean originals"
+}
